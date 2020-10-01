@@ -1,1 +1,2 @@
-resources: []
+resources:
+- clusters/dev01/tenant3.yaml
