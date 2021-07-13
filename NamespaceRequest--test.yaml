@@ -1,0 +1,8 @@
+apiVersion: acmp.corp/v1
+kind: NamespaceRequest
+metadata:
+  name: test
+spec:
+  cluster: dev01
+  cpu: 5
+  memory: 32

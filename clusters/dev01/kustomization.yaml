@@ -1,3 +1,4 @@
 resources:
 - clusters/dev01/tenant3.yaml
 - clusters/dev01/tenant4.yaml
+- NamespaceRequest--test.yaml
