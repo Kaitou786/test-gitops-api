@@ -3,5 +3,5 @@ kind: NamespaceRequest
 metadata:
   name: test
 spec:
-  cpu: 5
+  cpu: 6
   memory: 32
