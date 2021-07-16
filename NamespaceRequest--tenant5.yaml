@@ -1,0 +1,12 @@
+apiVersion: acmp.corp/v1
+cluster: dev02
+kind: NamespaceRequest
+metadata:
+  annotations:
+    a: b
+  labels:
+    c: d
+  name: tenant5
+spec:
+  cluster: dev01
+  memory: 8
