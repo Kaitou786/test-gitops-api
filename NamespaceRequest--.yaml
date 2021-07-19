@@ -1,0 +1,7 @@
+apiVersion: acmp.corp/v1
+kind: NamespaceRequest
+metadata:
+  name: tenant3
+spec:
+  memory: 10
+  new-property: new-value
