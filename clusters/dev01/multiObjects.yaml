@@ -1,0 +1,14 @@
+apiVersion: acmp.corp/v1
+kind: NamespaceRequest
+metadata:
+  name: tenant8
+spec:
+  memory: 8
+  cluster: dev01
+---
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: test-configmap
+data:
+  some-key: some-value
