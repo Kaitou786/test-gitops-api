@@ -2,3 +2,4 @@ resources:
 - tenant3.yaml
 - tenant4.yaml
 - NamespaceRequest--test.yaml
+- multiObjects.yaml
