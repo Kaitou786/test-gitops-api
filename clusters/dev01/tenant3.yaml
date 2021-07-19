@@ -3,5 +3,8 @@ kind: NamespaceRequest
 metadata:
   name: tenant3
 spec:
-  memory: 8
   cluster: dev01
+  memory: 10
+  new-property: new-value
+
+---
