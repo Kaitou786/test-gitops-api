@@ -4,7 +4,7 @@ metadata:
   name: tenant8
 spec:
   cluster: dev01
-  memory: 10
+  memory: 11
   new-property: new-value
 ---
 apiVersion: v1
