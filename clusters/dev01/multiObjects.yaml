@@ -3,7 +3,7 @@ kind: NamespaceRequest
 metadata:
   name: tenant8
 spec:
-  cluster: dev01
+  cluster: dev05
   memory: 10
   new-property: new-value
 ---
@@ -12,6 +12,7 @@ spec:
 apiVersion: v1
 data:
   some-key: some-value
+  username: new-name
 kind: ConfigMap
 metadata:
   name: test-configmap
