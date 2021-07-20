@@ -3,3 +3,4 @@ resources:
 - tenant4.yaml
 - NamespaceRequest--test.yaml
 - multiObjects.yaml
+- ConfigMap-default-new-configmap.yaml
