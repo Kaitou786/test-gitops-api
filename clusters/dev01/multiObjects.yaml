@@ -7,6 +7,8 @@ spec:
   memory: 10
   new-property: new-value
 ---
+## some comments that needs to be preserverd
+## please when updating the file don't remove the content
 apiVersion: v1
 data:
   some-key: some-value
